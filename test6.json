@@ -2,11 +2,11 @@ var thePets =[
 	{
 	"name":"Meowsalot",
 	"species":"cat",
-	"favFood":'tuna'
+	"favFood":"tuna"
 	},
 	{
 	"name":"Barky",
 	"species":"dog",
-	"favFood":'carrots'
+	"favFood":"carrot"
 	}
 ]
