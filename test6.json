@@ -1,4 +1,4 @@
-var thePets =[
+[
 	{
 	"name":"Meowsalot",
 	"species":"cat",
